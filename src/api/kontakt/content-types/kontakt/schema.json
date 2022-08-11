@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "kontakts",
+  "info": {
+    "singularName": "kontakt",
+    "pluralName": "kontakts",
+    "displayName": "Kontakt"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Ime_firme": {
+      "type": "string"
+    },
+    "Adresa": {
+      "type": "string"
+    },
+    "Telefon": {
+      "type": "string"
+    },
+    "radno_vreme": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    }
+  }
+}
