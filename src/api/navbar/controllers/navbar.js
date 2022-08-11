@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- *  blogpost controller
+ *  navbar controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::blogpost.blogpost');
+module.exports = createCoreController('api::navbar.navbar');
