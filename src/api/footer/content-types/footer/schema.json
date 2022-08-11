@@ -1,0 +1,43 @@
+{
+  "kind": "collectionType",
+  "collectionName": "footers",
+  "info": {
+    "singularName": "footer",
+    "pluralName": "footers",
+    "displayName": "footer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "poslovno_ime": {
+      "type": "string",
+      "required": true
+    },
+    "Maticni_broj": {
+      "type": "string",
+      "required": true
+    },
+    "PIB": {
+      "type": "string",
+      "required": true
+    },
+    "Radno_vreme": {
+      "type": "string",
+      "required": true
+    },
+    "Adresa": {
+      "type": "string",
+      "required": true
+    },
+    "Telefon": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
