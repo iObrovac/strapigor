@@ -1,0 +1,87 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pvcstolarijas",
+  "info": {
+    "singularName": "pvcstolarija",
+    "pluralName": "pvcstolarijas",
+    "displayName": "PVCstolarija"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Naslov": {
+      "type": "string"
+    },
+    "Podnaslov_1": {
+      "type": "string"
+    },
+    "text_1": {
+      "type": "richtext"
+    },
+    "Podnaslov_2": {
+      "type": "string"
+    },
+    "opcija_1_naslov": {
+      "type": "string"
+    },
+    "opcija_1_text": {
+      "type": "string"
+    },
+    "opcija2_naslov": {
+      "type": "string"
+    },
+    "opcija2_text": {
+      "type": "string"
+    },
+    "opcija3_naslov": {
+      "type": "string"
+    },
+    "opcija3_text": {
+      "type": "string"
+    },
+    "podnaslov3": {
+      "type": "string"
+    },
+    "text_2": {
+      "type": "richtext"
+    },
+    "slika1_naslov": {
+      "type": "string"
+    },
+    "slika1_text": {
+      "type": "string"
+    },
+    "slika2_naslov": {
+      "type": "string"
+    },
+    "slika2_text": {
+      "type": "string"
+    },
+    "slika3_naslov": {
+      "type": "string"
+    },
+    "slika3_text": {
+      "type": "string"
+    },
+    "slika4_naslov": {
+      "type": "string"
+    },
+    "slika4_text": {
+      "type": "string"
+    },
+    "slika5_naslov": {
+      "type": "string"
+    },
+    "slika5_text": {
+      "type": "string"
+    },
+    "slika6_naslov": {
+      "type": "string"
+    },
+    "slika6_text": {
+      "type": "string"
+    }
+  }
+}
