@@ -4,7 +4,8 @@
   "info": {
     "singularName": "roletne",
     "pluralName": "roletnes",
-    "displayName": "Roletne"
+    "displayName": "Roletne",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -228,6 +229,9 @@
       "type": "string"
     },
     "malatabela2_field_10": {
+      "type": "string"
+    },
+    "fusnota_tabele": {
       "type": "string"
     }
   }
