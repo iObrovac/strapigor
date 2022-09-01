@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "roletna_zaglavlje_tabeles",
+  "info": {
+    "singularName": "roletna-zaglavlje-tabele",
+    "pluralName": "roletna-zaglavlje-tabeles",
+    "displayName": "roletna zaglavlje tabele"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "zaglavlje_naslov": {
+      "type": "string"
+    },
+    "zaglavlje_kolona3": {
+      "type": "string"
+    },
+    "zaglavlje_kolona4": {
+      "type": "string"
+    },
+    "zaglavlje_kolona5": {
+      "type": "string"
+    },
+    "zaglavlje_kolona6": {
+      "type": "string"
+    },
+    "naslov_iznad_zaglavlja": {
+      "type": "string"
+    }
+  }
+}

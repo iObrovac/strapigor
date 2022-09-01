@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "roletna_red_tabeles",
+  "info": {
+    "singularName": "roletna-red-tabele",
+    "pluralName": "roletna-red-tabeles",
+    "displayName": "Roletna_Red_Tabele"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "property": {
+      "type": "string"
+    },
+    "kolona2": {
+      "type": "string"
+    },
+    "kolona3": {
+      "type": "string"
+    },
+    "kolona4": {
+      "type": "string"
+    },
+    "kolona5": {
+      "type": "string"
+    },
+    "kolona6": {
+      "type": "string"
+    }
+  }
+}
