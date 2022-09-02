@@ -4,7 +4,8 @@
   "info": {
     "singularName": "cenovnik",
     "pluralName": "cenovniks",
-    "displayName": "cenovnik"
+    "displayName": "cenovnik",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -99,6 +100,9 @@
       "type": "string"
     },
     "polje_20": {
+      "type": "string"
+    },
+    "fusnota_tabele": {
       "type": "string"
     }
   }
