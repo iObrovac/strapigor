@@ -1,0 +1,105 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cenovniks",
+  "info": {
+    "singularName": "cenovnik",
+    "pluralName": "cenovniks",
+    "displayName": "cenovnik"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "naslov_tabele": {
+      "type": "string"
+    },
+    "horizontalno_zaglavlje_1": {
+      "type": "string"
+    },
+    "horizontalno_zaglavlje_2": {
+      "type": "string"
+    },
+    "horizontalno_zaglavlje_3": {
+      "type": "string"
+    },
+    "horizontalno_zaglavlje_4": {
+      "type": "string"
+    },
+    "horizontalno_zaglavlje_5": {
+      "type": "string"
+    },
+    "vertikalno_zaglavlje_1": {
+      "type": "string"
+    },
+    "vertikalno_zaglavlje_2": {
+      "type": "string"
+    },
+    "vertikalno_zaglavlje_3": {
+      "type": "string"
+    },
+    "vertikalno_zaglavlje_4": {
+      "type": "string"
+    },
+    "polje_1": {
+      "type": "string"
+    },
+    "polje_2": {
+      "type": "string"
+    },
+    "polje_3": {
+      "type": "string"
+    },
+    "polje_4": {
+      "type": "string"
+    },
+    "polje_5": {
+      "type": "string"
+    },
+    "polje_6": {
+      "type": "string"
+    },
+    "polje_7": {
+      "type": "string"
+    },
+    "polje_8": {
+      "type": "string"
+    },
+    "polje_9": {
+      "type": "string"
+    },
+    "polje_10": {
+      "type": "string"
+    },
+    "polje_11": {
+      "type": "string"
+    },
+    "polje_12": {
+      "type": "string"
+    },
+    "polje_13": {
+      "type": "string"
+    },
+    "polje_14": {
+      "type": "string"
+    },
+    "polje_15": {
+      "type": "string"
+    },
+    "polje_16": {
+      "type": "string"
+    },
+    "polje_17": {
+      "type": "string"
+    },
+    "polje_18": {
+      "type": "string"
+    },
+    "polje_19": {
+      "type": "string"
+    },
+    "polje_20": {
+      "type": "string"
+    }
+  }
+}
