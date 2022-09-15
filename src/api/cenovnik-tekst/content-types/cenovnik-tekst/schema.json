@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cenovnik_teksts",
+  "info": {
+    "singularName": "cenovnik-tekst",
+    "pluralName": "cenovnik-teksts",
+    "displayName": "Cenovnik Tekst"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Naslov": {
+      "type": "string"
+    },
+    "Tekst": {
+      "type": "richtext"
+    }
+  }
+}

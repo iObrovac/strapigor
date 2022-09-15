@@ -12,97 +12,103 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "naslov_tabele": {
+    "naslovTabele": {
       "type": "string"
     },
-    "horizontalno_zaglavlje_1": {
+    "naslovKolona1": {
       "type": "string"
     },
-    "horizontalno_zaglavlje_2": {
+    "naslovKolona2": {
       "type": "string"
     },
-    "horizontalno_zaglavlje_3": {
+    "dimenzija1": {
       "type": "string"
     },
-    "horizontalno_zaglavlje_4": {
+    "cena1": {
       "type": "string"
     },
-    "horizontalno_zaglavlje_5": {
+    "dimenzija2": {
       "type": "string"
     },
-    "vertikalno_zaglavlje_1": {
+    "cena2": {
       "type": "string"
     },
-    "vertikalno_zaglavlje_2": {
+    "dimenzija3": {
       "type": "string"
     },
-    "vertikalno_zaglavlje_3": {
+    "cena3": {
       "type": "string"
     },
-    "vertikalno_zaglavlje_4": {
+    "dimenzija4": {
       "type": "string"
     },
-    "polje_1": {
+    "cena4": {
       "type": "string"
     },
-    "polje_2": {
+    "dimenzija5": {
       "type": "string"
     },
-    "polje_3": {
+    "cena5": {
       "type": "string"
     },
-    "polje_4": {
+    "dimenzija6": {
       "type": "string"
     },
-    "polje_5": {
+    "cena6": {
       "type": "string"
     },
-    "polje_6": {
+    "dimenzija7": {
       "type": "string"
     },
-    "polje_7": {
+    "cena7": {
       "type": "string"
     },
-    "polje_8": {
+    "dimenzija8": {
       "type": "string"
     },
-    "polje_9": {
+    "cena8": {
       "type": "string"
     },
-    "polje_10": {
+    "dimenzija9": {
       "type": "string"
     },
-    "polje_11": {
+    "cena9": {
       "type": "string"
     },
-    "polje_12": {
+    "dimenzija10": {
       "type": "string"
     },
-    "polje_13": {
+    "cena10": {
       "type": "string"
     },
-    "polje_14": {
+    "dimenzija11": {
       "type": "string"
     },
-    "polje_15": {
+    "cena11": {
       "type": "string"
     },
-    "polje_16": {
+    "dimenzija12": {
       "type": "string"
     },
-    "polje_17": {
+    "cena12": {
       "type": "string"
     },
-    "polje_18": {
+    "dimenzija13": {
       "type": "string"
     },
-    "polje_19": {
+    "cena13": {
       "type": "string"
     },
-    "polje_20": {
+    "dimenzija14": {
       "type": "string"
     },
-    "fusnota_tabele": {
+    "cena14": {
+      "type": "string"
+    },
+    "dimenzija15": {
+      "type": "string"
+    },
+    "cena15": {
       "type": "string"
     }
   }
